@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CC-React_morty/static/css/main.c99f0a59.chunk.css",
-    "main.js": "/CC-React_morty/static/js/main.015d2b2c.chunk.js",
-    "main.js.map": "/CC-React_morty/static/js/main.015d2b2c.chunk.js.map",
+    "main.js": "/CC-React_morty/static/js/main.ec5a606d.chunk.js",
+    "main.js.map": "/CC-React_morty/static/js/main.ec5a606d.chunk.js.map",
     "runtime-main.js": "/CC-React_morty/static/js/runtime-main.a9d5ea35.js",
     "runtime-main.js.map": "/CC-React_morty/static/js/runtime-main.a9d5ea35.js.map",
     "static/js/2.2169a68e.chunk.js": "/CC-React_morty/static/js/2.2169a68e.chunk.js",
     "static/js/2.2169a68e.chunk.js.map": "/CC-React_morty/static/js/2.2169a68e.chunk.js.map",
     "index.html": "/CC-React_morty/index.html",
-    "precache-manifest.0c7569df1f2acf71b0eb21ac622fef14.js": "/CC-React_morty/precache-manifest.0c7569df1f2acf71b0eb21ac622fef14.js",
+    "precache-manifest.73a26a5f22dd7aaec4d1ed7324bec2c4.js": "/CC-React_morty/precache-manifest.73a26a5f22dd7aaec4d1ed7324bec2c4.js",
     "service-worker.js": "/CC-React_morty/service-worker.js",
     "static/css/main.c99f0a59.chunk.css.map": "/CC-React_morty/static/css/main.c99f0a59.chunk.css.map",
     "static/js/2.2169a68e.chunk.js.LICENSE.txt": "/CC-React_morty/static/js/2.2169a68e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a9d5ea35.js",
     "static/js/2.2169a68e.chunk.js",
     "static/css/main.c99f0a59.chunk.css",
-    "static/js/main.015d2b2c.chunk.js"
+    "static/js/main.ec5a606d.chunk.js"
   ]
 }
